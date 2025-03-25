@@ -1,7 +1,7 @@
 -Integrantes
 1.Andrea Lizeth Bedoya Herrera
 2.Aldair Francisco Barahona Rapalino
-3.
+3.Brayan Estiven Banquet Rodriguez
 4.
 5.
 -Enlace al repositorio "https://github.com/Albh1305/ProyectoCFPB02Grupo2"
